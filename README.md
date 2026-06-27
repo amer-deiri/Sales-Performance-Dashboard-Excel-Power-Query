@@ -5,9 +5,9 @@ _Sales Performance Analysis Dashboard Using Excel_
 
 ### Project Overview :
 
-This project involves analyzing three years of sales data (2022–2024) for a company selling bicycle-related products (e.g., bikes, accessories, clothing, and components).
+This project analyzes 1.6 million+ sales transactions (2022–2024) for a multi-channel retail company using Excel and Power Query. The goal is to uncover growth drivers, evaluate product and regional performance, and deliver an interactive KPI dashboard that supports data-driven decision-making across sales channels, segments, and territories.
+Key result: Identified drivers behind a +147% revenue increase in 2024 and recommended strategies for margin improvement through discount optimization.
 
-The goal is to uncover insights into sales trends, product performance, channel and segment effectiveness, regional variations, and sales rep contributions. 
 I used Excel's Power Query for data preparation and PivotTables/Charts for visualization and analysis.
 
 The final output is a multi-page interactive dashboard highlighting key performance indicators (KPIs), trends, and recommendations.
