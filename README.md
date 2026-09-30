@@ -16,7 +16,8 @@ The final output is a multi-page interactive dashboard highlighting key performa
 The data reveals a company's sales operations across various products, channels (Retail, Wholesale, Key Accounts, Door to Door), segments (Business, Consumer), regions (Northeast, Southeast, Midwest, etc.), and sales representatives. 
 It focuses on metrics like net sales, order volumes, and growth, providing a comprehensive view of business health and opportunities for optimization.
 
-![Dashboard](https://github.com/amer-deiri/Sales-Project-material/blob/main/Dashboard.png)
+![Dashboard](dashboard/Dashboard.png)
+
 ### Dataset Used :
 
 The dataset consists of 7 Excel files containing structured sales and reference data:
@@ -129,7 +130,8 @@ The data required extensive preparation in Power Query to ensure accuracy and us
 
 
 This process reduced raw data inconsistencies and prepared it for analysis.
-![Power Query Editor]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Powequery.png)
+
+![Power Query Editor](power_query/PowerQuery.png)
 
 
 ### Exploratory Data Analysis (EDA)
@@ -154,7 +156,7 @@ The dashboard spans at least 3 pages in Excel, using PivotCharts, Slicers (for Y
 
 3- __Sales by Channel/Segment/Region/Rep Page__: Stacked bar for sales by channel; Map-like table for regions; Heatmap for sales reps (conditional formatting); Trends by segment.
 
-![Pivot_chart]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Pivot%20Chart.png)
+![Pivot Chart](dashboard/Pivot_Chart.png)
 
 The dashboard is interactive—slicing by year updates all visuals.
 
@@ -180,7 +182,7 @@ PivotTables were central to analysis:
 
 All Pivots linked to slicers for dynamic filtering.
 
-![Pivot_tables]( https://github.com/amer-deiri/Sales-Project-material/blob/main/Pivot%20table.png)
+![Pivot Tables](dashboard/Pivot_Table.png)
 
 ### Project Insights
 
