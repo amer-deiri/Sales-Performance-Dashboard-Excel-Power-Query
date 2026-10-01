@@ -131,7 +131,7 @@ The data required extensive preparation in Power Query to ensure accuracy and us
 
 This process reduced raw data inconsistencies and prepared it for analysis.
 
-![Power Query Editor](power_query/PowerQuery.png)
+![Power Query Editor](power_query/Powequery.png)
 
 
 ### Exploratory Data Analysis (EDA)
@@ -158,6 +158,7 @@ The dashboard spans at least 3 pages in Excel, using PivotCharts, Slicers (for Y
 
 ![Pivot Chart](dashboard/Pivot_Chart.png)
 
+
 The dashboard is interactive—slicing by year updates all visuals.
 
 ### Data Analysis
@@ -182,7 +183,7 @@ PivotTables were central to analysis:
 
 All Pivots linked to slicers for dynamic filtering.
 
-![Pivot Tables](dashboard/Pivot_Table.png)
+![Pivot Tables](dashboard/Pivot_table.png)
 
 ### Project Insights
 
