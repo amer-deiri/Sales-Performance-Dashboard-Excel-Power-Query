@@ -22,13 +22,13 @@ It focuses on metrics like net sales, order volumes, and growth, providing a com
 
 The dataset consists of 7 Excel files containing structured sales and reference data:
 
--  __sales 2022.xlsx__: Contains 387,383 rows of sales transactions for 2022, including Order ID, SalesRepID, Product ID, Order Date, ChannelID, SegmentID, RegionID, Quantity, and Discount. [sales2022](data/sales_2022.xlsx)
--  __sales 2023.xlsx__: Contains 374,828 rows of sales transactions for 2023 (similar structure). [sales2023](data/sales_2023.xlsx)
+-  __sales 2022.xlsx__: Contains 387,383 rows of sales transactions for 2022, including Order ID, SalesRepID, Product ID, Order Date, ChannelID, SegmentID, RegionID, Quantity, and Discount. [sales_2022](data/sales_2022.xlsx)
+-  __sales 2023.xlsx__: Contains 374,828 rows of sales transactions for 2023 (similar structure). [sales_2023](data/sales_2023.xlsx)
 -  __sales 2024.xlsx__: Contains 907,428 rows of sales transactions for 2024 (similar structure, up to November 2024). [sales2024](data/sales_2024.xlsb)
--  __Product.xlsx__: Product details (25 products) with IDs, names, categories (Accessories, Bikes, Clothing, Components), and yearly prices (2022–2024). [Product](data/products.xlsx)
--  __emp info.xlsx__: Sales rep information (80 reps) including ID, Name, Date of Birth, Hiring Date, Band, and Marital Status. [emp_info](data/employees.xlsx)
+-  __Product.xlsx__: Product details (25 products) with IDs, names, categories (Accessories, Bikes, Clothing, Components), and yearly prices (2022–2024). [Products](data/products.xlsx)
+-  __emp info.xlsx__: Sales rep information (80 reps) including ID, Name, Date of Birth, Hiring Date, Band, and Marital Status. [emplyees](data/employees.xlsx)
 -  __regions.xlsx__: 7 regions with IDs and names (e.g., Northeast: 3001). [regions](data/regions.xlsx)
--  __channels & segmant.xlsx__: Channels (4 types with IDs) and Segments (Business: 5001, Consumer: 5002). [channels&segment](data/channels_segments.xlsx)
+-  __channels & segmant.xlsx__: Channels (4 types with IDs) and Segments (Business: 5001, Consumer: 5002). [channels_segments](data/channels_segments.xlsx)
 
 Data Sources: Provided as raw Excel files. Total records: Over 1.6 million sales transactions across years. 
 Dates are in Excel serial format (e.g., 44743 for 2022 dates) or string format (e.g., "16-01-24" for 2024). 
